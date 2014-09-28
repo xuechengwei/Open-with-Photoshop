@@ -1,0 +1,9 @@
+{
+    "name": "com.lvye.openwithphotoshop",
+    "description": "open web pages images in photoshop via right click",
+    "path": "/Users/xue/Library/Application Support/Google/Chrome/NativeMessagingHosts/com.lvye.openwithphotoshop.js",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://abpbbjkabdjmnnmeikjhkdoiiaakfihg/"
+    ]
+}
